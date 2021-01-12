@@ -29,4 +29,4 @@ Licensed under [MIT license](https://mit-license.org/)
 
 ## Contact Information
 
-_johansenjonah+git@gmail.com_
+<johansenjonah+git@gmail.com>
