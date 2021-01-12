@@ -10,12 +10,13 @@
 
 ## Description
 
-_Webpage demonstrating use of Javascript functions and JQuery methods._
+_Webpage demonstrating use of Javascript functions and JQuery methods. Epicodus week 2 lesson 33,34_
 
 
 ## Setup/Installation Requirements
 
 * coo coo katchu
+* for lesson 34 go to superbutton.html
 
 
 ## Known Bugs
